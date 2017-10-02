@@ -1,1 +1,26 @@
 http://arduino.esp8266.com/versions/2.3.0/package_esp8266com_index.json
+
+git
+manonut55
+manonut28
+
+iottweet
+Natchapol
+Nut38853
+
+
+thingsperk
+5706021622035@fitm.kmutnb.ac.th
+Nut38853
+
+
+netpie
+5706021622035@fitm.kmutnb.ac.th
+0851088706
+
+
+
+Libariesiot
+Iot tweet
+Microgear
+DHT22
